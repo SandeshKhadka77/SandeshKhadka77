@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @SandeshKhadka77
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Bachelor of Information Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Sandesh Khadka
 
-<!---
-SandeshKhadka77/SandeshKhadka77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 About Me
+I am an aspiring **Web Developer** with a strong interest in building clean, responsive, and user-focused web applications. I am currently pursuing a **Bachelor of Information Technology (Hons)** and continuously improving my skills in modern web technologies.
+
+## 🚀 Interests
+- Web Development (Frontend & Full-Stack)
+- UI/UX-focused Web Interfaces
+- Modern Web Technologies
+- Scalable and Maintainable Code
+
+## 🌱 Currently Learning
+- Full-Stack Web Development
+- Advanced JavaScript Concepts
+- Backend Fundamentals & Databases
+
+## 🤝 Open to Collaboration
+I’m open to collaborating on:
+- Web development projects  
+- Open-source contributions  
+- Frontend UI implementations  
+
+## 📫 Contact
+- GitHub: [@SandeshKhadka77](https://github.com/SandeshKhadka77)
+- E-mail: (1sandesh.khadka@gmail.com)
+
+## ⚡ Fun Fact
+I enjoy turning real-world problems into simple and effective web solutions.
