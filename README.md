@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Khadka</h1>
-<h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
+<h3 align="center">A passionate developer from Kathmandu, Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshkhadka77&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshkhadka77" /> </p>
 
@@ -7,15 +7,10 @@
 
 - 🔭 I’m currently working on **Frontend & full-stack projects using MERN**
 
-- 🌱 I’m currently learning **- MERN, DSA, and modern web development workflows.**
-
-- 👯 I’m looking to collaborate on **open-source projects, frontend websites, and academic tech projects.**
-
-- 💬 Ask me about **Frontend development, Git & GitHub, college projects, and basic backend concepts.**
+- 🌱 I’m currently learning **- MERN,  and modern web development workflows.**
 
 - 📫 How to reach me **1sandeshkhadka0@gmail.com**
 
-- ⚡ Fun fact **I love converting learning projects into real-world, usable products**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
