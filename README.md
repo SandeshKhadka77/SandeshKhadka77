@@ -1,29 +1,220 @@
-<h1 align="center">Hi 👋, I'm Sandesh Khadka</h1>
-<h3 align="center">A passionate developer from Kathmandu, Nepal</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshkhadka77&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshkhadka77" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6366F1,100:8B5CF6&text=Sandesh%20Khadka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20|%20Developer%20|%20Continuous%20Learner&descAlignY=58" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeshkhadka77" alt="sandeshkhadka77" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **Frontend & full-stack projects using MERN**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Aspiring+Backend+Developer;Frontend+%26+Backend+Development+Learner;Building+Projects+and+Growing+Every+Day;Python+%26+Django+Learner;Future+Software+Engineer" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **- MERN,  and modern web development workflows.**
+<br/><br/>
 
-- 📫 How to reach me **1sandeshkhadka0@gmail.com**
+![](https://img.shields.io/badge/Bachelor%20of%20Information%20Technology-Student-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Student%20Developer-Learning-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/IT%20Student-Lincoln%20University%20College-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-4338CA?style=for-the-badge)
+
+<br/>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@_sandeshkhadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_sandeshkhadka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandesh-khadka-67604b371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandesh-khadka-67604b371" height="30" width="40" /></a>
-<a href="https://discord.gg/invite/fsu7pD8e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="invite/fsu7pD8e" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:1sandeshkhadka0@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/https://github.com/SandeshKhadka77&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/https://github.com/SandeshKhadka77style=for-the-badge&color=6366F1&labelColor=1E1B4B)
+![](https://img.shields.io/github/stars/https://github.com/SandeshKhadka77affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8B5CF6&labelColor=1E1B4B)
+
+</div>
+
+---
+
+# About Me
+
+I am **Sandesh Khadka**, an **CS  student** based in **Kathmandu, Nepal**, with a strong interest in software development and continuous learning.
+
+### Open To
+
+- Open Source Contributions
+- Backend Development Projects
+- Learning Opportunities in Python & Django
+- Networking with Developers and Students
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Frontend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshkhadka77&show_icons=true&locale=en&layout=compact" alt="sandeshkhadka77" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshkhadka77&show_icons=true&locale=en" alt="sandeshkhadka77" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshkhadka77&" alt="sandeshkhadka77" /></p>
+![](https://img.shields.io/badge/Responsive%20Design-Learning-8B5CF6?style=flat-square)
+
+</div>
+
+## Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+<div align="center">
+
+![](https://img.shields.io/badge/REST%20APIs-Intermediate-6366F1?style=flat-square)
+
+</div>
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## Tools & Environment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,npm,vite" />
+</p>
+
+---
+
+# Python & Backend Development Focus
+
+| Area | Level | Details |
+|--------|--------|---------|
+| Python Programming | Learning | Building fundamentals, OOP concepts, and problem-solving skills |
+| Django Development | Learning | Understanding Django architecture, models, and web development |
+| Backend Development | Learning | Exploring server-side development and application logic |
+| REST APIs | Intermediate | Working with APIs, routes, requests, and responses |
+| Database Management | Intermediate | Designing and managing relational databases using MySQL |
+| Machine Learning | Beginner | Exploring introductory ML concepts and small experiments |
+
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Python
+  - Django
+  - Backend Development
+  - Software Architecture Fundamentals
+  - Database Design
+
+building:
+  - Backend Applications
+  - Python Projects
+  - Academic Projects
+  - Machine Learning Experiments
+
+exploring:
+  - Cloud Computing
+  - System Design
+  - Open Source
+  - AI Fundamentals
+
+open_to:
+  - Internships
+  - Collaboration
+  - Open Source Contributions
+  - Student Developer Opportunities
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/your-github-username">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+</div>
+
+---
+
+<div align="center">
+
+### "Continuous learning and consistent practice are the foundations."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,50:6366F1,100:8B5CF6"/>
+
+</div>
