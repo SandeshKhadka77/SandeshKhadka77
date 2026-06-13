@@ -150,8 +150,7 @@ I am **Sandesh Khadka**, an **CS  student** based in **Kathmandu, Nepal**, with 
 # Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/your-github-username/SandeshKhadka77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SandeshKhadka77/SandeshKhadka77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
