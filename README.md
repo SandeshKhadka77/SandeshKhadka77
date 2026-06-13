@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Aspiring+Backend+Developer;Frontend+%26+Backend+Development+Learner;Building+Projects+and+Growing+Every+Day;Python+%26+Django+Learner;Future+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Backend+Developer;Frontend+%26+Backend+Development+Learner;Building+Projects;Python+%26+Django+Learner;" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 
 
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/sandesh-khadka-67604b371">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -113,15 +113,15 @@ I am **Sandesh Khadka**, an **CS  student** based in **Kathmandu, Nepal**, with 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandeshKhadka77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshKhadka77&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshKhadka77&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -131,7 +131,7 @@ I am **Sandesh Khadka**, an **CS  student** based in **Kathmandu, Nepal**, with 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SandeshKhadka77&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -141,7 +141,7 @@ I am **Sandesh Khadka**, an **CS  student** based in **Kathmandu, Nepal**, with 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeshKhadka77&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -151,7 +151,7 @@ I am **Sandesh Khadka**, an **CS  student** based in **Kathmandu, Nepal**, with 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/your-github-username/SandeshKhadka77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -164,20 +164,12 @@ learning:
   - Python
   - Django
   - Backend Development
-  - Software Architecture Fundamentals
   - Database Design
 
 building:
   - Backend Applications
   - Python Projects
-  - Academic Projects
   - Machine Learning Experiments
-
-exploring:
-  - Cloud Computing
-  - System Design
-  - Open Source
-  - AI Fundamentals
 
 open_to:
   - Internships
@@ -192,15 +184,15 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:sandeshkhadkakaji77@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/sandesh-khadka-67604b371">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/SandeshKhadka77">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
