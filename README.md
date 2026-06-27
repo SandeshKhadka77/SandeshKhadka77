@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6366F1,100:8B5CF6&text=Sandesh%20Khadka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20|%20Developer%20|%20Continuous%20Learner&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6366F1,100:8B5CF6&text=Sandesh%20Khadka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38|%20Developer%20|" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Backend+Developer;Frontend+%26+Backend+Development+Learner;Building+Projects;Python+%26+Django+Learner;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Backend+Developer;Frontend+%26+Backend+Developmentr;Building+Projects;Python+%26+Django;" alt="Typing SVG" />
 
 <br/><br/>
 
 ![](https://img.shields.io/badge/Bachelor%20of%20Information%20Technology-Student-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/Student%20Developer-Learning-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/IT%20Student-Lincoln%20University%20College-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-4338CA?style=for-the-badge)
 
 <br/>
@@ -38,14 +37,13 @@
 
 # About Me
 
-I am **Sandesh Khadka**, an **CS  student** based in **Kathmandu, Nepal**, with a strong interest in software development and continuous learning.
+I am **Sandesh Khadka**, an **IT  student** based in **Kathmandu, Nepal**, with a strong interest in software development and continuous learning.
 
 ### Open To
 
-- Open Source Contributions
 - Backend Development Projects
 - Learning Opportunities in Python & Django
-- Networking with Developers and Students
+
 
 ---
 
@@ -85,6 +83,7 @@ I am **Sandesh Khadka**, an **CS  student** based in **Kathmandu, Nepal**, with 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ## Tools & Environment
